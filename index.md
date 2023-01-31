@@ -2,6 +2,16 @@
 
 Generally occurs on Wednesdays, we talk about areas within and surrounding computational logic.
 
+## Upcoming Talk
+
+Title: Interactive Theorem Proving with Lean
+Time: Wednesday Feburary 1st @ 10am
+Location: RAIR Lab, Winslow
+Speaker: Brandon Rozek
+
+Abstract: Lean is an open source theorem prover developed at Microsoft Research and Carnegie Mellon University. One of their main goals is to bridge the gap between interactive and automated theorem proving by providing a robust set of tactics capable of solving several different theories. Mathlib, a community driven effort, is a unified library of mathematical formulations within Lean. This talk will go over interactive theorem proving using dependent type theory in general. As well as give tips on how to efficiently find proofs under this formulation.
+
+
 ## Prior Talks
 
 05/11/2022:
