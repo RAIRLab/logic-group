@@ -4,9 +4,9 @@ Generally occurs on Wednesdays, we talk about areas within and surrounding compu
 
 ## Upcoming Talk
 
-Title: Interactive Theorem Proving with Lean
+Title: Interactive Theorem Proving with Lean Part 2
 
-Time: Wednesday Feburary 1st @ 10am
+Time: Wednesday Feburary 1st @ TBD
 
 Location: RAIR Lab, Winslow
 
@@ -17,6 +17,9 @@ Abstract: Lean is an open source theorem prover developed at Microsoft Research 
 
 
 ## Prior Talks
+
+02/01/2022: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 1".
+
 
 12/8/2022: 
 Armin Karic gave an original talk “Compiling to Axioms” on equational logic.
