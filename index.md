@@ -6,7 +6,7 @@ Generally occurs on Wednesdays, we talk about areas within and surrounding compu
 
 Title: Interactive Theorem Proving with Lean Part 2
 
-Time: Wednesday Feburary 8th @ TBD
+Time: Wednesday Feburary 8th @ 2PM
 
 Location: RAIR Lab, Winslow
 
