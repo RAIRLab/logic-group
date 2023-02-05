@@ -93,9 +93,11 @@ Brandon Rozek presented
 
 ## Invited Speakers
 
-- Brandon Rozek ![](https://brandonrozek.com/img/avatar.jpg)
-- James Oswald ![](https://jamesoswald.dev/images/avatar.png)
-- Mike Giancola ![](https://rair.cogsci.rpi.edu/files/2019/08/Giancola_Headshot-1-180x180.jpg)
-- John Slowik
-- Armin Karic
-- Selmer Bringsjord ![](http://kryten.mm.rpi.edu/bringsjord_large.jpg)
+<ul>
+  <li><p>Brandon Rozek</p><img src="https://brandonrozek.com/img/avatar.jpg" width=250></li>  
+  <li><p>James Oswald</p><img src="https://jamesoswald.dev/images/avatar.png" width=250></li>  
+  <li><p>Mike Giancola</p><img src="https://rair.cogsci.rpi.edu/files/2019/08/Giancola_Headshot-1-180x180.jpg" width=250></li>  
+  <li><p>John Slowik</p></li>  
+  <li><p>Armin Karic</p></li>  
+  <li><p>Selmer Bringsjord</p><img src="http://kryten.mm.rpi.edu/bringsjord_large.jpg" width=250></li>  
+</ul>
