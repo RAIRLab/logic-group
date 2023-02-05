@@ -90,3 +90,12 @@ Brandon Rozek presented
 05/11/2022:
 Brandon Rozek presented 
 [The Power of Waiting in Social Laws](https://icaps21.icaps-conference.org/workshops/KEPS/Papers/KEPS_2021_paper_14.pdf) by Alexander Tuisov, Alexander Shleyfman, and Erez Karpas.
+
+## Invited Speakers
+
+- Brandon Rozek ![](https://brandonrozek.com/img/avatar.jpg)
+- James Oswald ![](https://jamesoswald.dev/images/avatar.png)
+- Mike Giancola ![](https://rair.cogsci.rpi.edu/files/2019/08/Giancola_Headshot-1-180x180.jpg)
+- John Slowik
+- Armin Karic
+- Selmer Bringsjord ![](http://kryten.mm.rpi.edu/bringsjord_large.jpg)
