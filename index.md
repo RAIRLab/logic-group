@@ -105,6 +105,9 @@ Brandon Rozek presented
   .speaker img {
     clip-path: circle();
   }
+  .speaker a {
+    display: block;
+  }
 </style>
 
 
