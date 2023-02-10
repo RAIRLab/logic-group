@@ -14,7 +14,7 @@ Speaker: James Oswald
 
 Abstract: We will begin by discussing the description logics ALC and its properties and semantics. We will briefly discuss fuzzy logic with Zadeh semantics, and finish by discussing how to create a fuzzy version of ALC with Zadeh semantics.
 
-Link to paper: http://www.umbertostraccia.it/cs/download/papers/AAAI98/AAAI98.pdf
+Link to paper: [http://www.umbertostraccia.it/cs/download/papers/AAAI98/AAAI98.pdf](http://www.umbertostraccia.it/cs/download/papers/AAAI98/AAAI98.pdf)
 
 ## Prior Talks
 
