@@ -4,19 +4,22 @@ Generally occurs on Wednesdays, we talk about areas within and surrounding compu
 
 ## Upcoming Talk
 
-Title: Interactive Theorem Proving with Lean Part 2
+Title: “A Fuzzy Description Logic” by Umberto Straccia published in AAAI 1998.
 
-Time: Wednesday Feburary 8th @ 2PM
+Time: Wednesday Feburary 15th @ 2PM
 
 Location: RAIR Lab, Winslow
 
-Speaker: Brandon Rozek
+Speaker: James Oswald
 
+Abstract: We will begin by discussing the description logics ALC and its properties and semantics. We will briefly discuss fuzzy logic with Zadeh semantics, and finish by discussing how to create a fuzzy version of ALC with Zadeh semantics.
 
-Abstract: Lean is an open source theorem prover developed at Microsoft Research and Carnegie Mellon University. One of their main goals is to bridge the gap between interactive and automated theorem proving by providing a robust set of tactics capable of solving several different theories. Mathlib, a community driven effort, is a unified library of mathematical formulations within Lean. This talk will go over interactive theorem proving using dependent type theory in general. As well as give tips on how to efficiently find proofs under this formulation.
-
+Link to paper: http://www.umbertostraccia.it/cs/download/papers/AAAI98/AAAI98.pdf
 
 ## Prior Talks
+
+02/08/2022: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 1".
+
 
 02/01/2022: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 1".
 
