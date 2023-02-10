@@ -18,7 +18,7 @@ Link to paper: [http://www.umbertostraccia.it/cs/download/papers/AAAI98/AAAI98.p
 
 ## Prior Talks
 
-02/08/2022: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 1".
+02/08/2022: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 2".
 
 
 02/01/2022: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 1".
