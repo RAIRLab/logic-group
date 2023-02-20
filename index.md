@@ -4,19 +4,21 @@ Generally occurs on Wednesdays, we talk about areas within and surrounding compu
 
 ## Upcoming Talk
 
-Title: “A Fuzzy Description Logic” by Umberto Straccia published in AAAI 1998.
+Title: "Distributed, Decentralized, and Democratized Artificial Intelligence" by Gabriel Axel Montes and Ben Goertzel published in the international journal on Technological Forecasting and Social Change
 
-Time: Wednesday Feburary 15th @ 2PM
-
+Time: Wednesday February 22nd @ 2PM
 Location: RAIR Lab, Winslow
+Speaker: Mike Giancola
 
-Speaker: James Oswald
+Abstract: We discuss the main argument of the paper, which is that a decentralized approach to the development of AGI will lead to a more equitable distribution of benefits than the currently-dominant centralized approach. We analyze the supporting arguments using a critical lens, and discuss alternative paths which may be more plausible.
 
-Abstract: We will begin by discussing the description logics ALC and its properties and semantics. We will briefly discuss fuzzy logic with Zadeh semantics, and finish by discussing how to create a fuzzy version of ALC with Zadeh semantics.
-
-Link to paper: [http://www.umbertostraccia.it/cs/download/papers/AAAI98/AAAI98.pdf](http://www.umbertostraccia.it/cs/download/papers/AAAI98/AAAI98.pdf)
+Link to paper: [https://www.sciencedirect.com/science/article/pii/S0040162518302920](https://www.sciencedirect.com/science/article/pii/S0040162518302920)
 
 ## Prior Talks
+
+02/15/2022: James Oswald presented
+“A Fuzzy Description Logic” by Umberto Straccia published in AAAI 1998. Along with original associated lean proofs.
+
 
 02/08/2022: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 2".
 
