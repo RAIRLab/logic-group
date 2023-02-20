@@ -7,7 +7,9 @@ Generally occurs on Wednesdays, we talk about areas within and surrounding compu
 Title: "Distributed, Decentralized, and Democratized Artificial Intelligence" by Gabriel Axel Montes and Ben Goertzel published in the international journal on Technological Forecasting and Social Change
 
 Time: Wednesday February 22nd @ 2PM
+
 Location: RAIR Lab, Winslow
+
 Speaker: Mike Giancola
 
 Abstract: We discuss the main argument of the paper, which is that a decentralized approach to the development of AGI will lead to a more equitable distribution of benefits than the currently-dominant centralized approach. We analyze the supporting arguments using a critical lens, and discuss alternative paths which may be more plausible.
