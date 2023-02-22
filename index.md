@@ -19,7 +19,7 @@ Link to paper: [https://www.sciencedirect.com/science/article/pii/S0040162518302
 ## Prior Talks
 
 02/15/2022: James Oswald presented
-“A Fuzzy Description Logic” by Umberto Straccia published in AAAI 1998. Along with original associated lean proofs.
+[“A Fuzzy Description Logic”](http://www.umbertostraccia.it/cs/download/papers/AAAI98/AAAI98.pdf) by Umberto Straccia published in AAAI 1998. Along with original associated lean proofs.
 
 
 02/08/2022: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 2".
