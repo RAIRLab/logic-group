@@ -124,5 +124,5 @@ Brandon Rozek presented
   <div class="speaker"><img src="https://rair.cogsci.rpi.edu/files/2019/08/Giancola_Headshot-1-180x180.jpg" height="250"><a href="https://mjgiancola.github.io/">Mike Giancola</a></div>  
   <div class="speaker"><img height="250" width="250"><p>John Slowik</p></div>  
   <div class="speaker"><img height="250" width="250"><p>Armin Karic</p></div>  
-  <div class="speaker"><img src="http://kryten.mm.rpi.edu/bringsjord_large.jpg" height="250"><a href="https://homepages.rpi.edu/~brings/">Selmer Bringsjord</a></div>  
+  <div class="speaker"><img src="https://faculty.rpi.edu/sites/default/files/2021-12/Selmer-Bringsjord.jpg" height="250"><a href="https://homepages.rpi.edu/~brings/">Selmer Bringsjord</a></div>  
 </div>
