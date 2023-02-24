@@ -4,19 +4,37 @@ Generally occurs on Wednesdays, we talk about areas within and surrounding compu
 
 ## Upcoming Talk
 
-Title: "Distributed, Decentralized, and Democratized Artificial Intelligence" by Gabriel Axel Montes and Ben Goertzel published in the international journal on Technological Forecasting and Social Change
+Title: A Cognitive Calculi for Attention-and-Perception: APCC* 
 
-Time: Wednesday February 22nd @ 2PM
+Time: Wednesday March 1st @ 2PM
 
 Location: RAIR Lab, Winslow
 
-Speaker: Mike Giancola
+Speaker: Selmer Bringsjord
 
-Abstract: We discuss the main argument of the paper, which is that a decentralized approach to the development of AGI will lead to a more equitable distribution of benefits than the currently-dominant centralized approach. We analyze the supporting arguments using a critical lens, and discuss alternative paths which may be more plausible.
-
-Link to paper: [https://www.sciencedirect.com/science/article/pii/S0040162518302920](https://www.sciencedirect.com/science/article/pii/S0040162518302920)
+Abstract: New logics are created on an ongoing basis. This has been true since Aristotle (over two millennia
+ago). Courtesy of Leibniz (in the second half of the 17th century), not only extensional logics but
+intensional ones begain to arrive on the scene. While Leibniz conceived computational logics, at
+least at this point the general consensus is that while he invented the basis for standard digital
+computation, and designed and built computers, bona fide computational logics only arrived
+around the time of Alonzo Church. By any metric, the 20th century, and the start of the 21st,
+have seen a veritable explosion of both extensional and intensional computational logics. In
+this context, it’s scandalous that the cardinality of the set of all dedicated — computational
+or otherwise — logics of attention is apparently 1 (the logic AL); and of logics of attention-
+and-perception the cardinaly is that of ;. In our own case, we have introduced a class of
+computational logics marked by high extensional and intensional expressivity: cognitive calculi.
+Unfortunately, only some simplistic reasoning involving perception has been formalized in some
+of these calculi. To start to change this state-of-a↵airs, using AL as a point of entry, we
+introduce a simple dialect of a new cognitive calculus, the attention-perception cognitive calculus
+(APCC), which is designed to integrate with ARCADI, the most sophisticated computational
+cognitive architecture today that allows serious modeling and simulation of human attention-
+and-perception-centric human cognition.
 
 ## Prior Talks
+
+02/22/2022: Mike Giancola presented
+["Distributed, Decentralized, and Democratized Artificial Intelligence"](https://www.sciencedirect.com/science/article/pii/S0040162518302920) by by Gabriel Axel Montes and Ben Goertzel published in the international journal on Technological Forecasting and Social Change.
+
 
 02/15/2022: James Oswald presented
 [“A Fuzzy Description Logic”](http://www.umbertostraccia.it/cs/download/papers/AAAI98/AAAI98.pdf) by Umberto Straccia published in AAAI 1998. Along with original associated lean proofs.
