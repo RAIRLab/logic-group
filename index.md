@@ -24,9 +24,9 @@ or otherwise — logics of attention is apparently 1 (the logic AL); and of logi
 and-perception the cardinaly is that of ;. In our own case, we have introduced a class of
 computational logics marked by high extensional and intensional expressivity: cognitive calculi.
 Unfortunately, only some simplistic reasoning involving perception has been formalized in some
-of these calculi. To start to change this state-of-a↵airs, using AL as a point of entry, we
+of these calculi. To start to change this state-of-affairs, using AL as a point of entry, we
 introduce a simple dialect of a new cognitive calculus, the attention-perception cognitive calculus
-(APCC), which is designed to integrate with ARCADI, the most sophisticated computational
+(APCC), which is designed to integrate with ARCADIA, the most sophisticated computational
 cognitive architecture today that allows serious modeling and simulation of human attention-
 and-perception-centric human cognition.
 
