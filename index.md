@@ -12,23 +12,27 @@ Location: RAIR Lab, Winslow
 
 Speaker: Selmer Bringsjord
 
-Abstract: New logics are created on an ongoing basis. This has been true since Aristotle (over two millennia
-ago). Courtesy of Leibniz (in the second half of the 17th century), not only extensional logics but
-intensional ones begain to arrive on the scene. While Leibniz conceived computational logics, at
-least at this point the general consensus is that while he invented the basis for standard digital
-computation, and designed and built computers, bona fide computational logics only arrived
-around the time of Alonzo Church. By any metric, the 20th century, and the start of the 21st,
-have seen a veritable explosion of both extensional and intensional computational logics. In
-this context, it’s scandalous that the cardinality of the set of all dedicated — computational
-or otherwise — logics of attention is apparently 1 (the logic AL); and of logics of attention-
-and-perception the cardinaly is that of ;. In our own case, we have introduced a class of
-computational logics marked by high extensional and intensional expressivity: cognitive calculi.
-Unfortunately, only some simplistic reasoning involving perception has been formalized in some
-of these calculi. To start to change this state-of-affairs, using AL as a point of entry, we
-introduce a simple dialect of a new cognitive calculus, the attention-perception cognitive calculus
-(APCC), which is designed to integrate with ARCADIA, the most sophisticated computational
-cognitive architecture today that allows serious modeling and simulation of human attention-
-and-perception-centric human cognition.
+Abstract: New logics are created on an ongoing basis. This has been true since Aristotle (over two
+millennia ago: Organon). Courtesy of Leibniz (in the second half of the 17th century), not only
+extensional logics but intensional ones begain to arrive on the scene. While Leibniz conceived
+computational logics, at least currently the general consensus is that while he invented the basis
+for standard digital computation, and designed and built peerless-at-the-time computers, bona
+fide computational logics only arrived very early in the 20th century courtesy of Sch ̈onfinkel.
+At the midpoint of that century, specifically at the dawn of the discipline of AI circa 1956,
+computational logics went from being purely abstract objects to frameworks for implementations
+that constitued the first artificial agents on Earth. Then, by any metric, the 2nd half of the 20th
+century, and the start of the 21st, saw a veritable explosion of both extensional and intensional
+computational logics — so much so that some have wondered whether AI needs anything else.
+In this context, it’s scandalous that the cardinality of the set of all dedicated — computational or otherwise —
+logics of attention is apparently 1 (the logic AL); and of logics of
+attention-and-perception the cardinaly is that of 0. In our own case, we have introduced a class
+of computational logics marked by high extensional and intensional expressivity: cognitive cal-
+culi. Unfortunately, at this point in time only some simplistic reasoning involving perception has
+been formalized in some of these calculi. To start to change this state-of-affairs, using AL as a
+point of entry, we introduce a simple dialect of a new cognitive calculus, the attention-perception
+cognitive calculus (APCC), designed to integrate with ARCADIA, the most sophisticated computational cognitive
+architecture today that allows serious modeling and simulation of human-level
+attention-and-perception-centric cognition.
 
 ## Prior Talks
 
