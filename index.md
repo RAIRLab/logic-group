@@ -4,50 +4,65 @@ Generally occurs on Wednesdays, we talk about areas within and surrounding compu
 
 ## Upcoming Talk
 
-Title: A Cognitive Calculi for Attention-and-Perception: APCC* 
+Title: Reasoning with Cognitive Likelihood for Artificially-Intelligent Agents: Formalization & Implementation 
 
-Time: Wednesday March 1st @ 2PM
+Time: Wednesday March 15th @ 2PM
 
 Location: RAIR Lab, Winslow
 
-Speaker: Selmer Bringsjord
+Speaker: Michael Giancola
 
-Abstract: New logics are created on an ongoing basis. This has been true since Aristotle (over two
-millennia ago: Organon). Courtesy of Leibniz (in the second half of the 17th century), not only
-extensional logics but intensional ones begain to arrive on the scene. While Leibniz conceived
-computational logics, at least currently the general consensus is that while he invented the basis
-for standard digital computation, and designed and built peerless-at-the-time computers, bona
-fide computational logics only arrived very early in the 20th century courtesy of Sch ̈onfinkel.
-At the midpoint of that century, specifically at the dawn of the discipline of AI circa 1956,
-computational logics went from being purely abstract objects to frameworks for implementations
-that constitued the first artificial agents on Earth. Then, by any metric, the 2nd half of the 20th
-century, and the start of the 21st, saw a veritable explosion of both extensional and intensional
-computational logics — so much so that some have wondered whether AI needs anything else.
-In this context, it’s scandalous that the cardinality of the set of all dedicated — computational or otherwise —
-logics of attention is apparently 1 (the logic AL); and of logics of
-attention-and-perception the cardinaly is that of 0. In our own case, we have introduced a class
-of computational logics marked by high extensional and intensional expressivity: cognitive cal-
-culi. Unfortunately, at this point in time only some simplistic reasoning involving perception has
-been formalized in some of these calculi. To start to change this state-of-affairs, using AL as a
-point of entry, we introduce a simple dialect of a new cognitive calculus, the attention-perception
-cognitive calculus (APCC), designed to integrate with ARCADIA, the most sophisticated computational cognitive
-architecture today that allows serious modeling and simulation of human-level
-attention-and-perception-centric cognition.
+Abstract: Human beings routinely encounter situations containing informal,
+non-quantitative uncertainty. Consider for example the following
+scenario: Driving toward a four-way intersection, you stop at a red
+light. Eventually, the light turns green, but you perceive a driver
+approaching from your left, their light having turned red moments ago,
+and subsequently perceive their car accelerate. What can we say about
+this situation? It certainly seems likely that the driver will drive straight
+through the light. Of course, it's entirely possible that the driver will change
+their trajectory at the last second and slam on the brakes. How can we
+quantify this uncertainty (assuming this is what we desired)?
+
+We could compute a probability over all recorded instances of drivers
+accelerating toward red lights and either going through or stopping. But
+clearly humans don’t engage in anything like this computation when they
+reason about other drivers on the road. We use likelihoods to express
+qualities (as opposed to quantities e.g. probabilities) of the uncertainty of
+beliefs. In this way, one may reason that "I believe it's highly likely that the
+driver will drive through the red light'' and subsequently come to the conclusion
+that, despite having the legal right-of-way, one should wait to avoid an accident.
+Autonomous agents, in order to effectively interact with humans that reason this
+way, will need to possess and exploit the ability to model reasoning with notions
+of qualitative uncertainty.
+
+The present dissertation introduces Cognitive Likelihood, a framework for reasoning
+with uncertain beliefs. The framework is implemented within a novel logic --- the
+Inductive Deontic Cognitive Event Calculus (IDCEC) --- which includes a formal grammar
+and semantics which dictate how agents can reason within the framework. These formalisms
+are implemented in an automated reasoner called ShadowAdjudicator in order to enable the
+automatic generation of IDCEC proofs. We present the novel algorithm underlying
+ShadowAdjudicator which enables this automated proof discovery. Finally, we demonstrate how
+these contributions can be utilized to solve autonomous driving problems and to adjudicate=
+arguments regarding a notorious probability puzzle, the Monty Hall Problem.
+
 
 ## Prior Talks
 
-02/22/2022: Mike Giancola presented
+03/01/2023: Selmer Bringsjord presented
+an original talk titled "A Cognitive Calculi for Attention-and-Perception: APCC*"
+
+02/22/2023: Mike Giancola presented
 ["Distributed, Decentralized, and Democratized Artificial Intelligence"](https://www.sciencedirect.com/science/article/pii/S0040162518302920) by by Gabriel Axel Montes and Ben Goertzel published in the international journal on Technological Forecasting and Social Change.
 
 
-02/15/2022: James Oswald presented
+02/15/2023: James Oswald presented
 [“A Fuzzy Description Logic”](http://www.umbertostraccia.it/cs/download/papers/AAAI98/AAAI98.pdf) by Umberto Straccia published in AAAI 1998. Along with original associated lean proofs.
 
 
-02/08/2022: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 2".
+02/08/2023: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 2".
 
 
-02/01/2022: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 1".
+02/01/2023: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 1".
 
 
 12/8/2022: 
