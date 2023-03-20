@@ -4,49 +4,22 @@ Generally occurs on Wednesdays, we talk about areas within and surrounding compu
 
 ## Upcoming Talk
 
-Title: Reasoning with Cognitive Likelihood for Artificially-Intelligent Agents: Formalization & Implementation 
+Title: Automated Theorem Proving with TPTP 
 
-Time: Wednesday March 15th @ 2PM
+Time: Wednesday March 22nd @ 2PM
 
 Location: RAIR Lab, Winslow
 
-Speaker: Michael Giancola
+Speaker: Brandon Rozek
 
-Abstract: Human beings routinely encounter situations containing informal,
-non-quantitative uncertainty. Consider for example the following
-scenario: Driving toward a four-way intersection, you stop at a red
-light. Eventually, the light turns green, but you perceive a driver
-approaching from your left, their light having turned red moments ago,
-and subsequently perceive their car accelerate. What can we say about
-this situation? It certainly seems likely that the driver will drive straight
-through the light. Of course, it's entirely possible that the driver will change
-their trajectory at the last second and slam on the brakes. How can we
-quantify this uncertainty (assuming this is what we desired)?
-
-We could compute a probability over all recorded instances of drivers
-accelerating toward red lights and either going through or stopping. But
-clearly humans don’t engage in anything like this computation when they
-reason about other drivers on the road. We use likelihoods to express
-qualities (as opposed to quantities e.g. probabilities) of the uncertainty of
-beliefs. In this way, one may reason that "I believe it's highly likely that the
-driver will drive through the red light'' and subsequently come to the conclusion
-that, despite having the legal right-of-way, one should wait to avoid an accident.
-Autonomous agents, in order to effectively interact with humans that reason this
-way, will need to possess and exploit the ability to model reasoning with notions
-of qualitative uncertainty.
-
-The present dissertation introduces Cognitive Likelihood, a framework for reasoning
-with uncertain beliefs. The framework is implemented within a novel logic --- the
-Inductive Deontic Cognitive Event Calculus (IDCEC) --- which includes a formal grammar
-and semantics which dictate how agents can reason within the framework. These formalisms
-are implemented in an automated reasoner called ShadowAdjudicator in order to enable the
-automatic generation of IDCEC proofs. We present the novel algorithm underlying
-ShadowAdjudicator which enables this automated proof discovery. Finally, we demonstrate how
-these contributions can be utilized to solve autonomous driving problems and to adjudicate=
-arguments regarding a notorious probability puzzle, the Monty Hall Problem.
+Abstract: To facilitate innovation in automated theorem provers, both CADE and IJCAR hold a yearly competition named CASC. Problems in this competition are sourced from the thousands of problems for theorem provers library (TPTP). This problem set provides a standard input format, axiom sets, and help establish a baseline for ATP systems. This talk will go over the TPTP format, and how to get started with automated theorem provers such as Vampire and E. We will also go over the different types of problems we can ask of ATP systems including but not limited to question-answering, consequence elimination, and consistency checking.
 
 
 ## Prior Talks
+
+03/15/2023: Mike Giancola presented
+and original talk titled "Reasoning with Cognitive Likelihood for Artificially-Intelligent Agents: Formalization & Implementation"
+
 
 03/01/2023: Selmer Bringsjord presented
 an original talk titled "A Cognitive Calculi for Attention-and-Perception: APCC*"
