@@ -4,7 +4,7 @@ Generally occurs on Wednesdays, we talk about areas within and surrounding compu
 
 ## Upcoming Talk
 
-Title: Existential Graphs
+Title: Existential Graphs: An Overview
 
 Time: Wednesday March 29th @ 2PM
 
@@ -12,7 +12,7 @@ Location: RAIR Lab, Winslow
 
 Speaker: Bram Van Heuveln
 
-Abstract: TBD
+Abstract: Existential Graphs is a system of logic that uses a visual representation. It was developed by Charles Sanders Peirce at the end of the 19th century. Peirce was in the thick of things in the development of modern symbolic logic, but in the end found the classical linear notation to be wanting for human use, and thought he could improve on it with a more diagrammatic notation. How well did he do?  We'll see!
 
 ## Prior Talks
 
