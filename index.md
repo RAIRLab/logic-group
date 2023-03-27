@@ -17,7 +17,7 @@ Abstract: TBD
 ## Prior Talks
 
 03/22/2023: Brandon Rozek presented
-an original talk titled "Automated Theorem Proving with TPTP"
+an original talk titled ["Automated Theorem Proving with TPTP"](https://github.com/Brandon-Rozek/TPTP-Examples)
 
 03/15/2023: Mike Giancola presented
 an original talk titled "Reasoning with Cognitive Likelihood for Artificially-Intelligent Agents: Formalization & Implementation"
