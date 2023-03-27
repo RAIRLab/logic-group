@@ -4,21 +4,23 @@ Generally occurs on Wednesdays, we talk about areas within and surrounding compu
 
 ## Upcoming Talk
 
-Title: Automated Theorem Proving with TPTP 
+Title: Existential Graphs
 
-Time: Wednesday March 22nd @ 2PM
+Time: Wednesday March 29th @ 2PM
 
 Location: RAIR Lab, Winslow
 
-Speaker: Brandon Rozek
+Speaker: Bram Van Heuveln
 
-Abstract: To facilitate innovation in automated theorem provers, both CADE and IJCAR hold a yearly competition named CASC. Problems in this competition are sourced from the thousands of problems for theorem provers library (TPTP). This problem set provides a standard input format, axiom sets, and help establish a baseline for ATP systems. This talk will go over the TPTP format, and how to get started with automated theorem provers such as Vampire and E. We will also go over the different types of problems we can ask of ATP systems including but not limited to question-answering, consequence elimination, and consistency checking.
-
+Abstract: TBD
 
 ## Prior Talks
 
+03/22/2023: Brandon Rozek presented
+an original talk titled "Automated Theorem Proving with TPTP"
+
 03/15/2023: Mike Giancola presented
-and original talk titled "Reasoning with Cognitive Likelihood for Artificially-Intelligent Agents: Formalization & Implementation"
+an original talk titled "Reasoning with Cognitive Likelihood for Artificially-Intelligent Agents: Formalization & Implementation"
 
 
 03/01/2023: Selmer Bringsjord presented
