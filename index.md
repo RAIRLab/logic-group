@@ -34,10 +34,10 @@ an original talk titled "A Cognitive Calculi for Attention-and-Perception: APCC*
 [“A Fuzzy Description Logic”](http://www.umbertostraccia.it/cs/download/papers/AAAI98/AAAI98.pdf) by Umberto Straccia published in AAAI 1998. Along with original associated lean proofs.
 
 
-02/08/2023: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 2".
+02/08/2023: Brandon Rozek gave an original talk on ["Interactive Theorem Proving with Lean Part 2"](https://brandonrozek.com/blog/lean3-tutorial).
 
 
-02/01/2023: Brandon Rozek gave an original talk on "Interactive Theorem Proving with Lean Part 1".
+02/01/2023: Brandon Rozek gave an original talk on ["Interactive Theorem Proving with Lean Part 1"](https://brandonrozek.com/blog/lean3-tutorial).
 
 
 12/8/2022: 
