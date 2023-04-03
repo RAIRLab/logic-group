@@ -4,17 +4,20 @@ Generally occurs on Wednesdays, we talk about areas within and surrounding compu
 
 ## Upcoming Talk
 
-Title: Existential Graphs: An Overview
+Title: An Introduction to Linear Temporal Logic
 
-Time: Wednesday March 29th @ 2PM
+Time: Wednesday April 5th @ 2PM
 
 Location: RAIR Lab, Winslow
 
-Speaker: Bram Van Heuveln
+Speaker: James Oswald
 
-Abstract: Existential Graphs is a system of logic that uses a visual representation. It was developed by Charles Sanders Peirce at the end of the 19th century. Peirce was in the thick of things in the development of modern symbolic logic, but in the end found the classical linear notation to be wanting for human use, and thought he could improve on it with a more diagrammatic notation. How well did he do?  We'll see!
+Abstract: Linear Temporal Logic (LTL) is simple temporal modal logic that has found practical use in model checking, formal verification, and planning. LTL is one of the simplest temporal logics, making it a great starting place to start learning more complex modal and temporal logics. In this presentation we will outline some of the basic formalisms behind LTL such as syntax and semantics and then discuss some basic examples.
 
 ## Prior Talks
+
+03/29/2023: Bram Van Heuveln presented
+an original talk titled "Existential Graphs: An Overview".
 
 03/22/2023: Brandon Rozek presented
 an original talk titled ["Automated Theorem Proving with TPTP"](https://github.com/Brandon-Rozek/TPTP-Examples)
