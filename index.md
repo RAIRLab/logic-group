@@ -6,7 +6,7 @@ Generally occurs on Wednesdays, we talk about areas within and surrounding compu
 
 Title: An Introduction to Linear Temporal Logic
 
-Time: Wednesday April <s>5th</s> 26th @ 2PM
+Time: Wednesday April 12th @ 2PM
 
 Location: RAIR Lab, Winslow
 
