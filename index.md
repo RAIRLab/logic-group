@@ -4,6 +4,16 @@ Generally occurs on Wednesdays, we talk about areas within and surrounding compu
 
 ## Upcoming Talk
 
+Title: FOL in ShadowProver and PySpectra
+
+Time: Wednesday April 26th @ 2PM
+
+Location: RAIR Lab, Winslow & Online (Contact Brandon for details)
+
+Speaker:  Naveen Sundar Govindarajulu
+
+Abstract: ShadowProver has an upcoming update and with it, the underlying reasoner is switching from Snark to E. E is a modern FOL theorem prover with support of the TPTP standard and has won CASC competitions. We will talk about the ramifications of such change, as well as go over a new Python interface to Spectra.
+
 Title: An Introduction to Linear Temporal Logic
 
 Time: Wednesday April 12th @ 2PM
@@ -15,6 +25,9 @@ Speaker: James Oswald
 Abstract: Linear Temporal Logic (LTL) is simple temporal modal logic that has found practical use in model checking, formal verification, and planning. LTL is one of the simplest temporal logics, making it a great starting place to start learning more complex modal and temporal logics. In this presentation we will outline some of the basic formalisms behind LTL such as syntax and semantics and then discuss some basic examples.
 
 ## Prior Talks
+
+04/12/2023: James Oswald presented
+an original talk titled ["An Introduction to Linear Temporal Logic"](https://github.com/James-Oswald/linear_temporal_logic)
 
 03/29/2023: Bram Van Heuveln presented
 an original talk titled "Existential Graphs: An Overview".
