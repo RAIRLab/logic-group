@@ -8,6 +8,8 @@ Title: Boyer-Moore: A Washing Machine for QED
 
 Time: Wednesday May 3rd @ 2PM
 
+Location: RAIR Lab, Winslow
+
 Speaker: Armin Karic
 
 Abstract: Robert S. Boyer's and J Strother Moore's model of theorem proving has
