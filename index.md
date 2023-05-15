@@ -150,7 +150,7 @@ Brandon Rozek presented
   <div class="speaker"><img src="https://jamesoswald.dev/images/avatar.png" height="250"><a href="https://jamesoswald.dev/">James Oswald</a></div>  
   <div class="speaker"><img src="https://rair.cogsci.rpi.edu/files/2019/08/Giancola_Headshot-1-180x180.jpg" height="250"><a href="https://mjgiancola.github.io/">Mike Giancola</a></div>
   <div class="speaker"><img src="https://faculty.rpi.edu/sites/default/files/2021-12/Selmer-Bringsjord.jpg" height="250"><a href="https://homepages.rpi.edu/~brings/">Selmer Bringsjord</a></div>
-  <div class="speaker"><img src="https://www.uno.edu/sites/default/files/inline-images/Shreya-Banerjee.jpg" height="250"><p>Shreya Banerjee</p></div>
+  <div class="speaker"><img src="https://www.uno.edu/sites/default/files/inline-images/Shreya-Banerjee.jpg" height="250"><a href= "https://www.linkedin.com/in/shreyabbanerjee/">Shreya Banerjee</a></div>
   <div class="speaker"><img src="https://faculty.rpi.edu/sites/default/files/2021-12/vanHeuveln_square.jpg" height="250"><a href="https://homepages.hass.rpi.edu/heuveb/">Bram Van Heuveln</a></div>
   <div class="speaker"><img height="250" width="250"><p>John Slowik</p></div>  
   <div class="speaker"><img height="250" width="250"><p>Armin Karic</p></div>  
