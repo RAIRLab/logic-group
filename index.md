@@ -2,28 +2,13 @@
 
 Generally occurs on Wednesdays, we talk about areas within and surrounding computational logic.
 
-## Upcoming Talk
-
-Title: Boyer-Moore: A Washing Machine for QED
-
-Time: Wednesday May 3rd @ 2PM
-
-Location: RAIR Lab, Winslow
-
-Speaker: Armin Karic
-
-Abstract: Robert S. Boyer's and J Strother Moore's model of theorem proving has
-amassed over 50 years worth of experience in both academic and
-industrial applications. The model is characterized by the "black-box"
-heuristics that make up the "waterfall" method it implements. We'll
-learn about the model through the lens of ACL2, which provides the
-latest evolution of the "waterfall"; the effectiveness of which has
-lead Boyer and Moore to be recipients of the 2005 ACM Software System
-Award. To this day ACL2 dominates hardware verification, seeing strong
-use by Intel, AMD, Apple, Collins, and so on.
-
+## Upcoming Talks
+We are on hiatus for Summer 2023. Come back next fall for more.  
 
 ## Prior Talks
+
+05/3/2023: Armin Karic presented
+an original talk titled "Boyer-Moore: A Washing Machine for QED" on [ACL2](https://en.wikipedia.org/wiki/ACL2).
 
 04/12/2023: James Oswald presented
 an original talk titled ["An Introduction to Linear Temporal Logic"](https://github.com/James-Oswald/linear_temporal_logic)
