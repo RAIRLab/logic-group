@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+header_pages:
+  - index.md
+  - priorTalks.md
+  - speakers.md
