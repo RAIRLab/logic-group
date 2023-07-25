@@ -1,4 +1,4 @@
-## Invited Speakers
+## Speakers
 
 <style>
   .speakers {
