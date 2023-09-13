@@ -33,7 +33,7 @@ The NY Capital Region Logic group is a weekly gathering at RPI of people in the 
 * automated planning
 * logic based artificial intelligence
 
-[List of Prior Talks](/priorTalks)
+[List of Prior Talks](/logic-group/priorTalks)
 
 We hold weekly seminars in which either academic papers or original talks on the above topics are presented to the group. If interested in joining or listening in, please contact us
 at oswalj@rpi.edu.
