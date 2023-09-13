@@ -1,5 +1,11 @@
 ## Prior Talks
 
+09/13/2023: Thomas Ferguson presented
+an original talk titled "Topic-Theoretic Intensional Logics and Their Rivals"
+
+05/10/2023: Naveen Sundar G presented
+an original talk titled "ShadowProver"
+
 05/3/2023: Armin Karic presented
 an original talk titled "Boyer-Moore: A Washing Machine for QED" on [ACL2](https://en.wikipedia.org/wiki/ACL2).
 
