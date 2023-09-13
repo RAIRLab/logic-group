@@ -1,3 +1,5 @@
+[Main Page](/logic-group/)
+
 ## Prior Talks
 
 09/13/2023: Thomas Ferguson presented
