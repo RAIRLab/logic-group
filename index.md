@@ -1,8 +1,8 @@
 ## Upcoming Talk
 
-Title: Topic-Theoretic Intensional Logics and Their Rivals
+Title: Topic-Theoretic Intensional Logics and Their Rivals (Part 2)
 
-Time: Wednesday September 13th @ 2PM
+Time: Wednesday September 20th @ 2PM
 
 Location: RAIR Lab, Winslow
 
