@@ -27,6 +27,7 @@ the semantic models currently on the market.
 
 The NY Capital Region Logic group is a weekly gathering at RPI of people in the NY Capital Region interested in the feild of logic and related areas such as
 * computational logic
+* philosophical logic
 * logic based ethics
 * automated theorem proving
 * interactive theorem proving
