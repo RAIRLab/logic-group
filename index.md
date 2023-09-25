@@ -1,27 +1,18 @@
+---
+title: RAIR Lab Logic Group
+---
+
 ## Upcoming Talk
 
-Title: Topic-Theoretic Intensional Logics and Their Rivals (Part 2)
+Title: Quantification in Non-Axiomatic Logic
 
-Time: Wednesday September 20th @ 2PM
+Time: Wednesday September 27th @ 2PM
 
 Location: RAIR Lab, Winslow
 
-Speaker: Dr. Thomas Ferguson
+Speaker: James Oswald
 
-Abstract: Treating topic or subject-matter as a semantically—and
-therefore logically—relevant feature of language has recently seen a
-sudden resurgence in interest. Appeals to models of topic, e.g., make
-for compelling mechanisms to make hyperintensional distinctions between
-sentences, which allows for subtler models of epistemic logics, logics
-of imagination or logics making distinctions between analytic/synthetic
-truth. Across a series of recent papers, I have argued that such models
-need to have the flexibility to model intensional subject-matter, i.e.,
-the subject matter of sentences including intensional operators. These
-papers have also iteratively presented refinements to the core model of
-topic. In this talk, I will review some of the historical development of
-such logics and their contemporary uses; I will also discuss some of the
-considerations that I have leveraged in order to motivate refinements to
-the semantic models currently on the market.
+Abstract: Non-Axiomatic Logic (NAL) is a fuzzy, non-monotonic, and syllogistic logic used by Pei-Wang's cognitive architecture, the Non-Axiomatic Reasoning System (NARS). This talk will (1) explore the syntactic and semantic foundations of NAL using inheritance logic (IL) and experience grounded semantics, (2) discuss how NAL is extended to handle quantification using variable terms and how this differs from quantification in first order logic, (3) look at how quantification in NAL can represent the four classical aristotelian quantifiers (A, E, I, O)
 
 ## About Us
 
