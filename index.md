@@ -16,7 +16,7 @@ Abstract: TBA
 
 ## About Us
 
-The NY Capital Region Logic group is a weekly gathering at RPI of people in the NY Capital Region interested in the feild of logic and related areas such as
+The NY Capital Region Logic group is a weekly gathering at RPI of people in the NY Capital Region interested in the field of logic and related areas such as
 * computational logic
 * philosophical logic
 * logic based ethics
