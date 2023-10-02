@@ -2,11 +2,17 @@
 
 ## Prior Talks
 
-09/13/2023: Thomas Ferguson presented
+09/27/2023: James Oswald presented an original talk titled
+["An Introduction to Non-Axiomatic Logic and Some Quantification"](https://docs.google.com/presentation/d/1220Cr_vSXYqjmgbsmLv0fBPKzhzGzioqNhbmU9vP0SE/edit?usp=sharing)
+
+09/20/2023: Thomas Ferguson presented part two of
+an original talk titled "Topic-Theoretic Intensional Logics and Their Rivals"
+
+09/13/2023: Thomas Ferguson presented part one of
 an original talk titled "Topic-Theoretic Intensional Logics and Their Rivals"
 
 05/10/2023: Naveen Sundar G presented
-an original talk titled "ShadowProver"
+an original talk titled "ShadowProver" on a novel varient of the software of the same name 
 
 05/3/2023: Armin Karic presented
 an original talk titled "Boyer-Moore: A Washing Machine for QED" on [ACL2](https://en.wikipedia.org/wiki/ACL2).
