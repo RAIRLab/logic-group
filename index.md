@@ -4,15 +4,15 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: Quantification in Non-Axiomatic Logic
+Title: TBA
 
-Time: Wednesday September 27th @ 2PM
+Time: Wednesday October 4th @ 2PM
 
 Location: RAIR Lab, Winslow
 
-Speaker: James Oswald
+Speaker: Brandon Rozek
 
-Abstract: Non-Axiomatic Logic (NAL) is a fuzzy, non-monotonic, and syllogistic logic used by Pei-Wang's cognitive architecture, the Non-Axiomatic Reasoning System (NARS). This talk will (1) explore the syntactic and semantic foundations of NAL using inheritance logic (IL) and experience grounded semantics, (2) discuss how NAL is extended to handle quantification using variable terms and how this differs from quantification in first order logic, (3) look at how quantification in NAL can represent the four classical aristotelian quantifiers (A, E, I, O)
+Abstract: TBA
 
 ## About Us
 
