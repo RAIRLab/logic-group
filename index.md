@@ -4,15 +4,15 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: TBA
+Date: Wednesday 10/4, 2pm
 
-Time: Wednesday October 4th @ 2PM
+Location: Winslow Building 4th Floor (If you don't have card access can text Brandon or I)
 
-Location: RAIR Lab, Winslow
+Title: Syntactic AC Unification
 
 Speaker: Brandon Rozek
 
-Abstract: TBA
+Abstract: In proof search, type checking, and cyber-security, algorithms need to find a substitution to equate a set of objects. Over time, unification theory has yielded various algorithms to find these substitutions depending on the background theory of the problem. One well studied theory is equality under associativity-commutativity (AC). Current techniques convert the problem into a Diophantine one, but what if we can solve the problem directly instead? This talk will showcase a preliminary algorithm to directly solve the AC Unification problem. We will discuss the basics of unification theory, prior attempts at combating termination, and the CryptoSolvers toolkit for easy prototyping of Unification algorithms.
 
 ## About Us
 
