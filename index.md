@@ -61,4 +61,5 @@ We generally hold our talks weekly on Wednesdays at 2PM.
   <div class="speaker"><img src="https://faculty.rpi.edu/sites/default/files/2021-12/vanHeuveln_square.jpg" height="250"><a href="https://homepages.hass.rpi.edu/heuveb/">Bram Van Heuveln</a></div>
   <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>John Slowik</p></div>  
   <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>Armin Karic</p></div>  
+  <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><a href="https://faculty.rpi.edu/thomas-ferguson">Thomas Ferguson</a></div>
 </div>
