@@ -2,7 +2,7 @@
 
 ## Prior Talks
 
-10/4/2023: Brandon Rozek presented an original talk titled Syntactic AC Unification.
+10/4/2023: Brandon Rozek presented an original talk titled "Syntactic AC Unification".
 
 09/27/2023: James Oswald presented an original talk titled
 ["An Introduction to Non-Axiomatic Logic and Some Quantification"](https://docs.google.com/presentation/d/1220Cr_vSXYqjmgbsmLv0fBPKzhzGzioqNhbmU9vP0SE/edit?usp=sharing)
