@@ -2,6 +2,10 @@
 
 ## Prior Talks
 
+10/25/2023: Brandon Rozek presented an original talk titled "Introduction to Goal Recognition as Planning"
+
+10/18/2023: Brandon Rozek and James Oswald presented an original workshop titled "RAIR Lab Software Overview" 
+
 10/4/2023: Brandon Rozek presented an original talk titled "Syntactic AC Unification".
 
 09/27/2023: James Oswald presented an original talk titled
