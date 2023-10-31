@@ -4,15 +4,15 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Date: Wednesday 10/11, 2pm
+Date: Wednesday 11/2, 2pm
 
 Location: Winslow Building 4th Floor (If you don't have card access can text Brandon or I)
 
-Title: TBA
+Title: Universal Intelligence, A formal definition of general machine intelligence
 
-Speaker: Jitka Kadlecikova
+Speaker: James Oswald
 
-Abstract: TBA
+Abstract: During his time as a PhD student under Marcus Hutter, Deepmind Cofounder Shane Legg proposed in 2007 the leading definition of general machine intelligence that is currently used as a working definition by many in the fields of AI Ethics and AGI. This defintion informally is read as: "Intelligence measures an agent’s ability to achieve goals in a wide range of environments".  In this talk, we will examine the background from which the  definition was derived, how it is formalized mathematically within a cybernetic system, and how it relates to Hutter's theoretically maximally intelligent AGI agent, AIXI. We will end with an open discussion on the consequences of this definition for logic based AI systems. 
 
 ## About Us
 
