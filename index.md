@@ -4,7 +4,7 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Date: Wednesday 11/2, 2pm
+Date: Wednesday 11/1, 2pm
 
 Location: Winslow Building 4th Floor (If you don't have card access can text Brandon or I)
 
