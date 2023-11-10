@@ -12,6 +12,8 @@
 | 09/27/2023 | James Oswald | [An Introduction to Non-Axiomatic Logic and Some Quantification](https://docs.google.com/presentation/d/1220Cr_vSXYqjmgbsmLv0fBPKzhzGzioqNhbmU9vP0SE/edit?usp=sharing) |      |
 | 09/20/2023 | Thomas Ferguson | Topic-Theoretic Intensional Logics and Their Rivals: Part 2 |  |
 | 09/13/2023 | Thomas Ferguson | Topic-Theoretic Intensional Logics and Their Rivals: Part 1 |      |
+| 09/06/2023 | Brandon Rozek | Hierarchical Reinforcement Learning under Partial Observability with a Discovery Planning Model |      |
+| 09/06/2023 | James Oswald | Large Language Models as Planning Domain Generators  |      |
 | 05/10/2023 | Naveen Sundar G | ShadowProver |      |
 | 05/3/2023 | Armin Karic | Boyer-Moore: A Washing Machine for QED | Featuring [ACL2](https://en.wikipedia.org/wiki/ACL2) |
 | 04/12/2023 | James Oswald | [An Introduction to Linear Temporal Logic](https://github.com/James-Oswald/linear_temporal_logic) |      |
