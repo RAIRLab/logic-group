@@ -2,6 +2,12 @@
 
 ## Prior Talks
 
+11/08/2023: Armin Karic presented
+an oriignal talk on Category Theory titled "Abstract Nonsense".
+
+11/01/2023: James Oswald presented a talk on a paper written by
+Shane Legg and Marcus Hutter titled "Universal Intelligence, A formal definition of general machine intelligence".
+
 10/25/2023: Brandon Rozek presented an original talk titled "Introduction to Goal Recognition as Planning"
 
 10/18/2023: Brandon Rozek and James Oswald presented an original workshop titled "RAIR Lab Software Overview" 
