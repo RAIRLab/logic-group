@@ -61,7 +61,7 @@ We generally hold our talks weekly on Wednesdays at 2PM.
   <div class="speaker"><img src="https://faculty.rpi.edu/sites/default/files/2021-12/Selmer-Bringsjord.jpg" height="250"><a href="https://homepages.rpi.edu/~brings/">Selmer Bringsjord</a></div>
   <div class="speaker"><img src="https://www.uno.edu/sites/default/files/inline-images/Shreya-Banerjee.jpg" height="250"><a href= "https://www.linkedin.com/in/shreyabbanerjee/">Shreya Banerjee</a></div>
   <div class="speaker"><img src="https://faculty.rpi.edu/sites/default/files/2021-12/vanHeuveln_square.jpg" height="250"><a href="https://homepages.hass.rpi.edu/heuveb/">Bram Van Heuveln</a></div>
-  <div class="speaker"><img src="https://faculty.rpi.edu/sites/default/files/2023-10/ferguson.png" height="250"><a href="https://faculty.rpi.edu/thomas-ferguson">Thomas Ferguson</a></div>
+  <div class="speaker"><img src="https://faculty.rpi.edu/sites/default/files/2023-11/fergut5_Thomas_Ferguson_Square.jpg" height="250"><a href="https://faculty.rpi.edu/thomas-ferguson">Thomas Ferguson</a></div>
   <div class="speaker"><img src="https://www.albany.edu/sites/default/files/styles/person_page_thumbnail/public/2022-07/Kimberly%20Cornell.jpg?h=215503eb&itok=ewYUYjC9" height="250"><a href="https://www.albany.edu/cehc/faculty/kimberly-cornell">Kimberly Cornell</a></div>
   <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>John Slowik</p></div>  
   <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>Armin Karic</p></div>  
