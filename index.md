@@ -4,17 +4,15 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Date: Wednesday 11/15, 3:30pm
+Date: Wednesday 11/29, 2pm
 
-Location: Winslow Building 4th Floor (If you don't have card access can text Brandon or James)
+Location: Winslow Building 4th Floor (If you don’t have card access can text Brandon or James)
 
-Title: On Forward Closure and the Finite Variant Property
+Title: Towards an Ethically Sensitive Logic
 
-Speaker: Dr. Kimberly Cornell
+Speaker: Jitka Kadlecikova
 
-Abstract: In this talk, we delve into equational unification, an area with wide-ranging applications, such as symbolic cryptographic protocol analysis, automated reasoning and automated theorem provers. Unification modulo a convergent term rewrite system proves to be undecidable, even with just a single rule. To navigate this complexity and pinpoint decidable (and tractable) scenarios, two paradigms have emerged: Basic Syntactic Mutation and the Finite Variant Property.
-
-Drawing inspiration from the Basic Syntactic Mutation approach, our investigation focuses on the notion of forward closure, combined with redundancy constraints. Our results showed that the having a finite forward closure (with redundancy constraints) is equivalent to having the finite variant property for a convergent term rewriting system. We also establish that the decidability of the finiteness of forward closure is undecidable as well as the finite variant property.
+Abstract: In prior joint work with Thomas Ferguson, following his idea of "monstrous content", we suggested a topic-theoretic interpretation of the logic of bounds consequence. We considered that there might be topic-theoretic restraints on inference, rendering some expressions "out of bounds" on the basis of flouting some conversational norm, e.g. by expressing offensive content. In this talk, I will introduce this "logic of monstrous content" as one possible interpretation of the strict-tolerant logic ST and its siblings. I will further suggest some versions of the framework that might seem to rival the original picture and discuss their repercussions. 
 
 ## About Us
 
