@@ -4,6 +4,7 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 11/15/2023 | Kimberly Cornell | On Forward Closure and the Finite Variant Property |  |
 | 11/08/2023 | Armin Karic | Abstract Nonsense | Category Theory |
 | 11/01/2023 | James Oswald | Universal Intelligence, A formal definition of general machine intelligence | Paper by Shane Legg and Marcus Hutter |
 | 10/25/2023 | Brandon Rozek | Introduction to Goal Recognition as Planning | Literature Review |
