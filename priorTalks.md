@@ -4,6 +4,7 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 11/29/2023 | Jitka Kadlecikova | Towards an Ethically Sensitive Logic |  |
 | 11/15/2023 | Kimberly Cornell | On Forward Closure and the Finite Variant Property |  |
 | 11/08/2023 | Armin Karic | Abstract Nonsense | Category Theory |
 | 11/01/2023 | James Oswald | Universal Intelligence, A formal definition of general machine intelligence | Paper by Shane Legg and Marcus Hutter |
