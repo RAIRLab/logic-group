@@ -4,15 +4,20 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Date: Wednesday 11/29, 2pm
+Title: Logic of Python
 
-Location: Winslow Building 4th Floor (If you don’t have card access can text Brandon or James)
+Speaker: Ethan Gertler
 
-Title: Towards an Ethically Sensitive Logic
+Date: Wednesday 12/06, 2pm
 
-Speaker: Jitka Kadlecikova
+Location: Winslow Building 4th Floor (If you don’t have card access can
+text Brandon or James)
 
-Abstract: In prior joint work with Thomas Ferguson, following his idea of "monstrous content", we suggested a topic-theoretic interpretation of the logic of bounds consequence. We considered that there might be topic-theoretic restraints on inference, rendering some expressions "out of bounds" on the basis of flouting some conversational norm, e.g. by expressing offensive content. In this talk, I will introduce this "logic of monstrous content" as one possible interpretation of the strict-tolerant logic ST and its siblings. I will further suggest some versions of the framework that might seem to rival the original picture and discuss their repercussions. 
+Abstract: A dive into the weird quirks of the Python programming
+language and how it handles truthy and falsey.  We will explore topics
+such as: why "5 and 7 == 7"​ or "not not 1 == 1"​ are true while "not
+not 2 == 2" is false.  Additionally, we will explore a logical model
+that reduces Python's quirks into classical-ish predicate logic.
 
 ## About Us
 
