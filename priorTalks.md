@@ -4,6 +4,8 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 12/13/2023 | James Oswald | Introductory Modal Logic in Lean 4 |  |
+| 12/06/2023 | Ethan Gertler | Logic of Python |  |
 | 11/29/2023 | Jitka Kadlecikova | Towards an Ethically Sensitive Logic |  |
 | 11/15/2023 | Kimberly Cornell | On Forward Closure and the Finite Variant Property |  |
 | 11/08/2023 | Armin Karic | Abstract Nonsense | Category Theory |
