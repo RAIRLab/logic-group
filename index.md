@@ -4,20 +4,16 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: Logic of Python
+Title: Introductory Modal Logic in Lean4 Part 2
 
-Speaker: Ethan Gertler
+Speaker: James Oswald
 
-Date: Wednesday 12/06, 2pm
+Date: Wednesday 01/10, 2pm
 
-Location: Winslow Building 4th Floor (If you don’t have card access can
+Location: Winslow Building 4th Floor (If you don’t have card access
 text Brandon or James)
 
-Abstract: A dive into the weird quirks of the Python programming
-language and how it handles truthy and falsey.  We will explore topics
-such as: why "5 and 7 == 7"​ or "not not 1 == 1"​ are true while "not
-not 2 == 2" is false.  Additionally, we will explore a logical model
-that reduces Python's quirks into classical-ish predicate logic.
+Abstract: In this talk, we will explore the intricacies of the Lean4 interactive theorem prover, investigating the language features that transform it into a powerful instrument for formalizing and proving theorems about modal logics. We will cover the basics of programming in lean, including defining inductive types, functions, and tactic based theorem proving. Using these foundations, we will look at how we may define and prove several simple theorems about propositional modal logic.
 
 ## About Us
 
