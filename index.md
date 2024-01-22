@@ -4,16 +4,16 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: Introductory Modal Logic in Lean4 Part 2
+Title: Spectra: STRIPS-Inspired AI Planner based on Automated Reasoning 
 
-Speaker: James Oswald
+Speaker: Brandon Rozek 
 
-Date: Wednesday 01/10, 2pm
+Date: Wednesday January 24th, 2pm
 
 Location: Winslow Building 4th Floor (If you don’t have card access
 text Brandon or James)
 
-Abstract: In this talk, we will explore the intricacies of the Lean4 interactive theorem prover, investigating the language features that transform it into a powerful instrument for formalizing and proving theorems about modal logics. We will cover the basics of programming in lean, including defining inductive types, functions, and tactic based theorem proving. Using these foundations, we will look at how we may define and prove several simple theorems about propositional modal logic.
+Abstract: The field of automated planning traditionally focuses on model-based approaches that primarily sacrifice expressivity for computational efficiency. In this talk, we'll analyze a proof-theoretic approach to automated planning. We'll discuss Spectra, a STRIPS-inspired AI planner built atop of automated reasoning. This system is designed to be logic-agnostic, as long as an automated reasoner exists to perform entailment and question-answering. Under our planning with formulas framework, we can handle environments of unbounded uncertainty; and with certain non-classical logics, we can create plans under epistemic beliefs. We showcase Spectra using the cognitive calculus DCC and further discuss how defeasible logics can play a role in creating plans over a large range of uncertain scenarios. 
 
 ## About Us
 
