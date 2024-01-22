@@ -4,7 +4,9 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
-| 12/13/2023 | James Oswald | Introductory Modal Logic in Lean 4 |  |
+| 01/24/2024 | Brandon Rozek | Spectra: STRIPS-Inspired AI Planner based on Automated Reasoning |  |
+| 01/10/2024 | James Oswald | Introductory Modal Logic in Lean 4 Part 2 |  |
+| 12/13/2023 | James Oswald | Introductory Modal Logic in Lean 4 Part 1 |  |
 | 12/06/2023 | Ethan Gertler | Logic of Python |  |
 | 11/29/2023 | Jitka Kadlecikova | Towards an Ethically Sensitive Logic |  |
 | 11/15/2023 | Kimberly Cornell | On Forward Closure and the Finite Variant Property |  |
