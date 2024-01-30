@@ -4,6 +4,8 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 01/31/2024 | Brandon Rozek | Planning with Likelihoods -- Initial Thoughts |  |
+| 01/31/2024 | James Oswald |  |  |
 | 01/24/2024 | Brandon Rozek | Spectra: STRIPS-Inspired AI Planner based on Automated Reasoning |  |
 | 01/10/2024 | James Oswald | Introductory Modal Logic in Lean 4 Part 2 |  |
 | 12/13/2023 | James Oswald | Introductory Modal Logic in Lean 4 Part 1 |  |
