@@ -4,16 +4,16 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: Spectra: STRIPS-Inspired AI Planner based on Automated Reasoning 
+Title: Upcoming RAIR Lab Research
 
-Speaker: Brandon Rozek 
+Speaker: James Oswald and Brandon Rozek 
 
-Date: Wednesday January 24th, 2pm
+Date: Wednesday January 31st, 2pm
 
 Location: Winslow Building 4th Floor (If you don’t have card access
 text Brandon or James)
 
-Abstract: The field of automated planning traditionally focuses on model-based approaches that primarily sacrifice expressivity for computational efficiency. In this talk, we'll analyze a proof-theoretic approach to automated planning. We'll discuss Spectra, a STRIPS-inspired AI planner built atop of automated reasoning. This system is designed to be logic-agnostic, as long as an automated reasoner exists to perform entailment and question-answering. Under our planning with formulas framework, we can handle environments of unbounded uncertainty; and with certain non-classical logics, we can create plans under epistemic beliefs. We showcase Spectra using the cognitive calculus DCC and further discuss how defeasible logics can play a role in creating plans over a large range of uncertain scenarios. 
+Abstract: First Half -- James will review the formal definition of the Arithmetic Hierarchy and the prenex normal form (PNF) conversion algorithm for first order formulae. We will then informally discuss where Hutter and Legg's Universal Intelligence and Universal AI falls on the hierarchy and hypothesize extensions via weakening computability assumptions on environments. Second Half -- Brandon Rozek will introduce his initial ideas on planning with likelihoods. We'll go through a motivating example and discuss how classical planning can be used to solve an important subset of this class of problems. 
 
 ## About Us
 
