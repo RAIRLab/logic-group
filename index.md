@@ -65,4 +65,5 @@ We generally hold our talks weekly on Wednesdays at 2PM.
   <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>John Slowik</p></div>  
   <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>Armin Karic</p></div>
   <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>Jitka Kadlecikova</p></div>
+  <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>Elisangela Ramirez-Camara</p></div>
 </div>
