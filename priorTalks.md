@@ -4,6 +4,7 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 02/07/2024 | Elisangela Ramirez-Camara | Connexive logic: An Introduction  |  |
 | 01/31/2024 | Brandon Rozek | Planning with Likelihoods -- Initial Thoughts |  |
 | 01/31/2024 | James Oswald | Universal intelligence in the arithmetic hierarchy |  |
 | 01/24/2024 | Brandon Rozek | Spectra: STRIPS-Inspired AI Planner based on Automated Reasoning |  |
