@@ -4,16 +4,16 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: Upcoming RAIR Lab Research
+Title: Connexive logic: An Introduction 
 
-Speaker: James Oswald and Brandon Rozek 
+Speaker: Elisangela Ramirez-Camara
 
-Date: Wednesday January 31st, 2pm
+Date: Wednesday February 7th, 2PM 
 
-Location: Winslow Building 4th Floor (If you don’t have card access
+Location: Winslow Building 4th Floor (If you don’t have access
 text Brandon or James)
 
-Abstract: First Half -- James will review the formal definition of the Arithmetic Hierarchy and the prenex normal form (PNF) conversion algorithm for first order formulae. We will then informally discuss where Hutter and Legg's Universal Intelligence and Universal AI falls on the hierarchy and hypothesize extensions via weakening computability assumptions on environments. Second Half -- Brandon Rozek will introduce his initial ideas on planning with likelihoods. We'll go through a motivating example and discuss how classical planning can be used to solve an important subset of this class of problems. 
+Abstract: This talk will be divided into two sections: The first one provides a very brief introduction to the contemporary notion of connexive logics as contraclassical logics. This will be done to understand what it means for connexive logics to be contraclassical, and to contrast them with subclassical logics, the other large family of alternative or non-classical logics. Once the general differences between subclassical and contraclassical logics have been established, the discussion will focus on a difficulty that has stalled the development of connexive logic. This problem can be stated with two questions: Should connexive logics be non-trivial? and What are the correct steps to take to obtain non-trivial connexive logics? 
 
 ## About Us
 
