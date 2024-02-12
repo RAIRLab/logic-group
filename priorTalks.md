@@ -4,6 +4,7 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 02/14/2024 | Pietro Vigiani | Explicit and Implicit Belief in FDE with Strict Implication   |  |
 | 02/07/2024 | Elisangela Ramirez-Camara | Connexive logic: An Introduction  |  |
 | 01/31/2024 | Brandon Rozek | Planning with Likelihoods -- Initial Thoughts |  |
 | 01/31/2024 | James Oswald | Universal intelligence in the arithmetic hierarchy |  |
