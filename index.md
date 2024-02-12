@@ -4,16 +4,16 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: Connexive logic: An Introduction 
+Title: Explicit and Implicit Belief in FDE with Strict Implication 
 
-Speaker: Elisangela Ramirez-Camara
+Speaker: Pietro Vigiani
 
-Date: Wednesday February 7th, 2PM 
+Date: Wednesday February 14th, 2PM 
 
 Location: Winslow Building 4th Floor (If you don’t have access
 text Brandon or James)
 
-Abstract: This talk will be divided into two sections: The first one provides a very brief introduction to the contemporary notion of connexive logics as contraclassical logics. This will be done to understand what it means for connexive logics to be contraclassical, and to contrast them with subclassical logics, the other large family of alternative or non-classical logics. Once the general differences between subclassical and contraclassical logics have been established, the discussion will focus on a difficulty that has stalled the development of connexive logic. This problem can be stated with two questions: Should connexive logics be non-trivial? and What are the correct steps to take to obtain non-trivial connexive logics? 
+Abstract: In this talk, we introduce  an extension of First Degree Entailment (FDE) with strict implication and a classicality constant. In the  first part of the talk, we show how to model explicit beliefs as sets of formulas closed under our extension of FDE while implicit beliefs as the classical closure of explicit beliefs. In the second part of the talk, we establish an embedding of a famous logic of explicit and implicit belief, introduced by Hector Levesque, into our framework. 
 
 ## About Us
 
@@ -66,4 +66,5 @@ We generally hold our talks weekly on Wednesdays at 2PM.
   <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>Armin Karic</p></div>
   <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>Jitka Kadlecikova</p></div>
   <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>Elisangela Ramirez-Camara</p></div>
+  <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>Pietro Vigiani</p></div>
 </div>
