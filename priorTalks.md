@@ -7,7 +7,7 @@
 | 03/01/2024 | Michael Giancola | Reflections on the DARPA XAI Program  & Life @ CRA | |
 | 02/14/2024 | Pietro Vigiani | Explicit and Implicit Belief in FDE with Strict Implication   |  |
 | 02/07/2024 | Elisangela Ramirez-Camara | Connexive logic: An Introduction  |  |
-| 01/31/2024 | Brandon Rozek | Planning with Likelihoods -- Initial Thoughts |  |
+| 01/31/2024 | Brandon Rozek | Planning under Qualitative Uncertainty -- Initial Thoughts |  |
 | 01/31/2024 | James Oswald | Universal intelligence in the arithmetic hierarchy |  |
 | 01/24/2024 | Brandon Rozek | Spectra: STRIPS-Inspired AI Planner based on Automated Reasoning |  |
 | 01/10/2024 | James Oswald | Introductory Modal Logic in Lean 4 Part 2 |  |
