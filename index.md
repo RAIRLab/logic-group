@@ -4,16 +4,16 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: Explicit and Implicit Belief in FDE with Strict Implication 
+Title: TBD
 
-Speaker: Pietro Vigiani
+Speaker: Dr. Thomas Ferguson
 
-Date: Wednesday February 14th, 2PM 
+Date: Wednesday March 13th, 2PM 
 
 Location: Winslow Building 4th Floor (If you don’t have access
 text Brandon or James)
 
-Abstract: In this talk, we introduce  an extension of First Degree Entailment (FDE) with strict implication and a classicality constant. In the  first part of the talk, we show how to model explicit beliefs as sets of formulas closed under our extension of FDE while implicit beliefs as the classical closure of explicit beliefs. In the second part of the talk, we establish an embedding of a famous logic of explicit and implicit belief, introduced by Hector Levesque, into our framework. 
+Abstract: TBD
 
 ## About Us
 
