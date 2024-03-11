@@ -4,6 +4,7 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 03/01/2024 | Michael Giancola | Reflections on the DARPA XAI Program  & Life @ CRA | |
 | 02/14/2024 | Pietro Vigiani | Explicit and Implicit Belief in FDE with Strict Implication   |  |
 | 02/07/2024 | Elisangela Ramirez-Camara | Connexive logic: An Introduction  |  |
 | 01/31/2024 | Brandon Rozek | Planning with Likelihoods -- Initial Thoughts |  |
