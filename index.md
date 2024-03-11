@@ -4,7 +4,7 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: TBD
+Title: Proof Techniques in Modal Logic I 
 
 Speaker: Dr. Thomas Ferguson
 
@@ -13,7 +13,10 @@ Date: Wednesday March 13th, 2PM
 Location: Winslow Building 4th Floor (If you don’t have access
 text Brandon or James)
 
-Abstract: TBD
+Abstract: This is the first of three talks in which we will review some of the more interesting model-theoretic proof techniques in modal Logic, namely, showing completeness via the technique of canonical models and decidability through the method of filtrations.
+
+In this first talk, I will give a concise introduction to Kripke semantics for normal modal logics to build a foundation for subsequent talks. We will cover the model theory and philosophical motivations for a family of modal logics.
+
 
 ## About Us
 
