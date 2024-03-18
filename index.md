@@ -4,18 +4,17 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: Proof Techniques in Modal Logic I 
+Title: Proof Techniques in Modal Logic II
 
 Speaker: Dr. Thomas Ferguson
 
-Date: Wednesday March 13th, 2PM 
+Date: Wednesday, March 20th at 2PM
 
-Location: Winslow Building 4th Floor (If you don’t have access
-text Brandon or James)
+Location: RAIR Lab, Winslow (Text Brandon or James for access)
 
 Abstract: This is the first of three talks in which we will review some of the more interesting model-theoretic proof techniques in modal Logic, namely, showing completeness via the technique of canonical models and decidability through the method of filtrations.
 
-In this first talk, I will give a concise introduction to Kripke semantics for normal modal logics to build a foundation for subsequent talks. We will cover the model theory and philosophical motivations for a family of modal logics.
+In the prior talk, we discussed a family of normal modal logics. In this talk we will emphasize the problem of proving completeness between a normal modal logic and a characteristic class of models. This problem involves showing that if some formula is not provable, then we can find a model in which it is false. The technique of canonical models is a beautiful way of doing this by taking theories---deductively closed sets of sentences---as possible worlds and relating those theories semantically to one another. This process determines a term model based on proof-theoretic notions in which provability in a theory corresponds to truth in a world. We will describe this process and go through several examples. 
 
 
 ## About Us
