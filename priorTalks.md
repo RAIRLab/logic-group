@@ -4,6 +4,8 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 03/20/2024 | Thomas Ferguson | Proof Techniques in Modal Logic II | |
+| 03/13/2024 | Thomas Ferguson | Proof Techniques in Modal Logic I | |
 | 03/01/2024 | Michael Giancola | Reflections on the DARPA XAI Program  & Life @ CRA | |
 | 02/14/2024 | Pietro Vigiani | Explicit and Implicit Belief in FDE with Strict Implication   |  |
 | 02/07/2024 | Elisangela Ramirez-Camara | Connexive logic: An Introduction  |  |
