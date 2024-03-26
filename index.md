@@ -4,17 +4,15 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: Proof Techniques in Modal Logic II
+Title: Outlines of Logical Externalism
 
-Speaker: Dr. Thomas Ferguson
+Speaker: Jitka Kadlecikova
 
-Date: Wednesday, March 20th at 2PM
+Date: Wednesday, March 27th at 2PM
 
 Location: RAIR Lab, Winslow (Text Brandon or James for access)
 
-Abstract: This is the first of three talks in which we will review some of the more interesting model-theoretic proof techniques in modal Logic, namely, showing completeness via the technique of canonical models and decidability through the method of filtrations.
-
-In the prior talk, we discussed a family of normal modal logics. In this talk we will emphasize the problem of proving completeness between a normal modal logic and a characteristic class of models. This problem involves showing that if some formula is not provable, then we can find a model in which it is false. The technique of canonical models is a beautiful way of doing this by taking theories---deductively closed sets of sentences---as possible worlds and relating those theories semantically to one another. This process determines a term model based on proof-theoretic notions in which provability in a theory corresponds to truth in a world. We will describe this process and go through several examples. 
+Abstract: In this talk, I will present and discuss a draft of my paper, "Outlines of Logical Externalism." It is a philosophical inquiry into the nature of inference and reasoning, informed by recent developments in the theory of topic. I will suggest a synthesis of two radical philosophical positions, Putnam (et al.)'s semantic externalism and inferentialism. I argue that when applied to the domain of formal logic, the synthesis of these theories provides a revealing analysis of the way our reasoning is shaped. I will further attempt to reformulate the resulting theory, which I call logical externalism, in terms of topic-theoretic considerations, and present some notions, notably Ferguson's idea of "monstrous content," as real-life applications of this topic-theoretic logical externalism (TT-LE). Finally, I will provide a possible refinement of this theory in order for it to fully conform to TT-LE.
 
 
 ## About Us
