@@ -4,15 +4,15 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: Outlines of Logical Externalism
+Title: Three Flavours of the Relevance Criterion: A Tutorial on Relevant Logics
 
-Speaker: Jitka Kadlecikova
+Speaker: Dr. Andrew Tedder, Ruhr University Bochum
 
-Date: Wednesday, March 27th at 2PM
+Date: Wednesday, April 3rd at 2PM
 
 Location: RAIR Lab, Winslow (Text Brandon or James for access)
 
-Abstract: In this talk, I will present and discuss a draft of my paper, "Outlines of Logical Externalism." It is a philosophical inquiry into the nature of inference and reasoning, informed by recent developments in the theory of topic. I will suggest a synthesis of two radical philosophical positions, Putnam (et al.)'s semantic externalism and inferentialism. I argue that when applied to the domain of formal logic, the synthesis of these theories provides a revealing analysis of the way our reasoning is shaped. I will further attempt to reformulate the resulting theory, which I call logical externalism, in terms of topic-theoretic considerations, and present some notions, notably Ferguson's idea of "monstrous content," as real-life applications of this topic-theoretic logical externalism (TT-LE). Finally, I will provide a possible refinement of this theory in order for it to fully conform to TT-LE.
+Abstract: In this talk, I'll present three ways that relevant logics have been understood and motivated, and use these as jumping off points to discuss significant results. The three flavours of Relevance are as follows. First, the Use Criterion demands that for an argument to be valid some premise must have been used in deriving the conclusion. I'll present the use criterion by discussing proof systems for relevant logics, and how we ensure that premises are used in derivations. Second, the variable sharing criterion requires that in valid arguments there must be some atomic formula ("propositional variable") in common between the conclusion and the premises. I'll present variable sharing by discussing semantics for relevant logics in terms of algebras and matrices (or truth tables, if we take this in a general enough way) and how we can understand these semantics, and variable sharing itself, as requiring a relation of aboutness to obtain between premises and conclusions. Finally, the sufficiency criterion requires that in valid arguments the premises must be absolutely sufficient for the conclusion -- so that no information not in the premises is needed for the conclusion to be supported by them. I'll discuss sufficiency as a motivation for the most common frame semantics for relevant logics, and discuss the relationship between this semantics and the algebraic semantics discussed earlier. 
 
 
 ## About Us
