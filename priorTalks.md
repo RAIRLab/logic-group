@@ -4,6 +4,8 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 04/03/2024 | Andrew Tedder | Three Flavours of the Relevance Criterion: A Tutorial on Relevant Logics  | |
+| 03/27/2024 | Brandon Rozek | CryptoSolve: A Tool for the Analysis of Cryptographic Modes of Operation | |
 | 03/20/2024 | Thomas Ferguson | Proof Techniques in Modal Logic II | |
 | 03/13/2024 | Thomas Ferguson | Proof Techniques in Modal Logic I | |
 | 03/01/2024 | Michael Giancola | Reflections on the DARPA XAI Program  & Life @ CRA | |
