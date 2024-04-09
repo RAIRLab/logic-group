@@ -4,15 +4,15 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: Three Flavours of the Relevance Criterion: A Tutorial on Relevant Logics
+Title: Proof Techniques in Modal Logic III
 
-Speaker: Dr. Andrew Tedder, Ruhr University Bochum
+Speaker: Dr. Thomas Ferguson
 
-Date: Wednesday, April 3rd at 2PM
+Date: Wednesday, April 10th at 2PM
 
 Location: RAIR Lab, Winslow (Text Brandon or James for access)
 
-Abstract: In this talk, I'll present three ways that relevant logics have been understood and motivated, and use these as jumping off points to discuss significant results. The three flavours of Relevance are as follows. First, the Use Criterion demands that for an argument to be valid some premise must have been used in deriving the conclusion. I'll present the use criterion by discussing proof systems for relevant logics, and how we ensure that premises are used in derivations. Second, the variable sharing criterion requires that in valid arguments there must be some atomic formula ("propositional variable") in common between the conclusion and the premises. I'll present variable sharing by discussing semantics for relevant logics in terms of algebras and matrices (or truth tables, if we take this in a general enough way) and how we can understand these semantics, and variable sharing itself, as requiring a relation of aboutness to obtain between premises and conclusions. Finally, the sufficiency criterion requires that in valid arguments the premises must be absolutely sufficient for the conclusion -- so that no information not in the premises is needed for the conclusion to be supported by them. I'll discuss sufficiency as a motivation for the most common frame semantics for relevant logics, and discuss the relationship between this semantics and the algebraic semantics discussed earlier. 
+Abstract: In two prior talks, we discussed a family of normal modal logics and proceeded to discuss an important proof technique for proving completeness (i.e. canonical models). In this talk we will discuss a related technique of filtration that can be used to prove decidability for a host of modal and intensional logics. Essentially, filtration is a technique that allows us to take a quotient of a Kripke model with a fixed set of sentences in mind that allows us to find a finite model for any satisfiable set of sentences. This finite model property is thus a critical part of standard decidability arguments. We will review the overall technique and show that it holds for several modal logics. 
 
 
 ## About Us
