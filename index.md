@@ -4,15 +4,16 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-Title: Proof Techniques in Modal Logic III
 
-Speaker: Dr. Thomas Ferguson
+Title: Formal Measures of General Machine Intelligence
 
-Date: Wednesday, April 10th at 2PM
+Speaker: James Oswald
+
+Date: Wednesday, April 17th at 2PM
 
 Location: RAIR Lab, Winslow (Text Brandon or James for access)
 
-Abstract: In two prior talks, we discussed a family of normal modal logics and proceeded to discuss an important proof technique for proving completeness (i.e. canonical models). In this talk we will discuss a related technique of filtration that can be used to prove decidability for a host of modal and intensional logics. Essentially, filtration is a technique that allows us to take a quotient of a Kripke model with a fixed set of sentences in mind that allows us to find a finite model for any satisfiable set of sentences. This finite model property is thus a critical part of standard decidability arguments. We will review the overall technique and show that it holds for several modal logics. 
+Abstract: We will survey mathematically formalized approaches to measuring the general intelligence level of arbitrary artificial agents. I will primarily be investigating and comparing three different classes of metrics: (1) The Universal Intelligence Measure and extensions/restrictions, in which an agent's intelligence is measured by its theoretical performance in all dynamic environments, (2) C-Test and task-based measurements in which a range of static tests and benchmarks are used to approximate intelligence, and (3) A UCI approach in which intelligence is measured via an agent's ability to reason in a hierarchy of intensional logics. 
 
 
 ## About Us
