@@ -4,6 +4,7 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 04/17/2024 | James Oswald | Formal Measures of General Machine Intelligence | |
 | 04/10/2024 | Thomas Ferguson | Proof Techniques in Modal Logic III | |
 | 04/03/2024 | Andrew Tedder | Three Flavours of the Relevance Criterion: A Tutorial on Relevant Logics  | |
 | 03/27/2024 | Brandon Rozek | CryptoSolve: A Tool for the Analysis of Cryptographic Modes of Operation | |
