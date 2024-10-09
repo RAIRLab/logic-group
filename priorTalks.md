@@ -4,6 +4,10 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 10/09/2024 | James Oswald | A Modal Logic of Optimality | |
+| 10/02/2024 | Thomas Ferguson | Qua, Per Se, and Other Topic-Theoretic Operators II | |
+| 09/25/2024 | Thomas Ferguson | Qua, Per Se, and Other Topic-Theoretic Operators I | |
+| 09/18/2024 | Nick Ferenz | γ and first-order relevant logics | |
 | 04/17/2024 | James Oswald | Formal Measures of General Machine Intelligence | |
 | 04/10/2024 | Thomas Ferguson | Proof Techniques in Modal Logic III | |
 | 04/03/2024 | Andrew Tedder | Three Flavours of the Relevance Criterion: A Tutorial on Relevant Logics  | |
@@ -59,6 +63,4 @@
 | 5/24/2022  | John Slowik | [Artificial Intelligent Agents Go to School](https://drive.google.com/file/d/1YaZdRZ4SZL1A17ckJOcOTpn6y2lulpOi/view?usp=sharing) | Paper by Sergei Nirenburg, Jesse English, and Marjorie McShane |
 | 5/18/2022  | James Oswald | [The Tractability of Subsumption in Frame-Based Description Languages](https://aaai.org/Papers/AAAI/1984/AAAI84-036.pdf) | Paper by Ronald Brachman and Hector Levesque. |
 | 05/11/2022 | Brandon Rozek | [The Power of Waiting in Social Laws](https://icaps21.icaps-conference.org/workshops/KEPS/Papers/KEPS_2021_paper_14.pdf) | Paper by Alexander Tuisov, Alexander Shleyfman, and Erez Karpas |
-
-
 
