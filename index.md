@@ -4,17 +4,21 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
+### Possibility Theory x Automated Planning
 
-Title: Formal Measures of General Machine Intelligence
+Speaker: Brandon Rozek
 
-Speaker: James Oswald
-
-Date: Wednesday, April 17th at 2PM
+Date: Wednesday, October 16 at 2PM
 
 Location: RAIR Lab, Winslow (Text Brandon or James for access)
 
-Abstract: We will survey mathematically formalized approaches to measuring the general intelligence level of arbitrary artificial agents. I will primarily be investigating and comparing three different classes of metrics: (1) The Universal Intelligence Measure and extensions/restrictions, in which an agent's intelligence is measured by its theoretical performance in all dynamic environments, (2) C-Test and task-based measurements in which a range of static tests and benchmarks are used to approximate intelligence, and (3) A UCI approach in which intelligence is measured via an agent's ability to reason in a hierarchy of intensional logics. 
+### The Art of Infallibility, Found
 
+Speaker: Selmer Bringsjord
+
+Date: Tuesday, October 22 at 2PM
+
+Location: RAIR Lab, Winslow (Text Brandon or James for access)
 
 ## About Us
 
