@@ -4,6 +4,8 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 10/30/2024 | Jitka Kadlecikova | A Unification of Asymmetric Consequences: Part I  | |
+| 10/16/2024 | Brandon Rozek | Alternate Theories of Uncertainty: Dempster-Shafer and Possibility Theory | |
 | 10/09/2024 | James Oswald | A Modal Logic of Optimality | |
 | 10/02/2024 | Thomas Ferguson | Qua, Per Se, and Other Topic-Theoretic Operators II | |
 | 09/25/2024 | Thomas Ferguson | Qua, Per Se, and Other Topic-Theoretic Operators I | |
