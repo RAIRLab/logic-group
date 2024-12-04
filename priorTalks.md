@@ -4,6 +4,9 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 12/04/2024 | Brandon Rozek & James Oswald | An Introduction to Situation Calculus | |
+| 11/20/2024 | Jitka Kadlecikova | A Unification of Asymmetric Consequences: Part II | |
+| 11/13/2024 | Marta Bilkova | Group Epistemics, (Co-)algebraically | |
 | 10/30/2024 | Jitka Kadlecikova | A Unification of Asymmetric Consequences: Part I  | |
 | 10/16/2024 | Brandon Rozek | Alternate Theories of Uncertainty: Dempster-Shafer and Possibility Theory | |
 | 10/09/2024 | James Oswald | A Modal Logic of Optimality | |
