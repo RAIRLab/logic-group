@@ -4,19 +4,11 @@ title: RAIR Lab Logic Group
 
 ## Upcoming Talk
 
-### Possibility Theory x Automated Planning
+An Introduction to Situation Calclus
 
-Speaker: Brandon Rozek
+Speaker: Brandon Rozek and James Oswald
 
-Date: Wednesday, October 16 at 2PM
-
-Location: RAIR Lab, Winslow (Text Brandon or James for access)
-
-### The Art of Infallibility, Found
-
-Speaker: Selmer Bringsjord
-
-Date: Tuesday, October 22 at 2PM
+Date: Wednesday, December 4 at 2PM
 
 Location: RAIR Lab, Winslow (Text Brandon or James for access)
 
@@ -68,6 +60,7 @@ We generally hold our talks weekly on Wednesdays at 2PM.
   <div class="speaker"><img src="https://faculty.rpi.edu/sites/default/files/2023-11/fergut5_Thomas_Ferguson_Square.jpg" height="250"><a href="https://faculty.rpi.edu/thomas-ferguson">Thomas Ferguson</a></div>
   <div class="speaker"><img src="https://cybercryptolab.github.io/assets/images/IMG_0046_Kimberly_Cornell.jpg" height="250" width="250" style="object-fit: cover;"><a href="https://www.albany.edu/cehc/faculty/kimberly-cornell">Kimberly Cornell</a></div>
   <div class="speaker"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=m4qjYJ8AAAAJ&citpid=2" height="250"><a href="https://sites.google.com/view/andrewjtedder/home">Andrew Tedder</a></div>
+  <div class="speaker"><img src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RLYD5ewAAAAJ&citpid=2" height="250"><a href="https://sites.google.com/view/martabilkova/home">Marta Bílková</a></div>
   <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>John Slowik</p></div>  
   <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>Armin Karic</p></div>
   <div class="speaker"><img src="https://raw.githubusercontent.com/RAIRLab/logic-group/main/robot.webp" height="250" width="250"><p>Jitka Kadlecikova</p></div>
