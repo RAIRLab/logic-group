@@ -2,16 +2,6 @@
 title: RAIR Lab Logic Group
 ---
 
-## Upcoming Talk
-
-An Introduction to Situation Calclus
-
-Speaker: Brandon Rozek and James Oswald
-
-Date: Wednesday, December 4 at 2PM
-
-Location: RAIR Lab, Winslow (Text Brandon or James for access)
-
 ## About Us
 
 The NY Capital Region Logic group is a weekly gathering at RPI of people in the NY Capital Region interested in the field of logic and related areas such as
