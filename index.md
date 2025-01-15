@@ -52,7 +52,7 @@ We generally hold our talks weekly on Wednesdays at 2PM.
 
 <div class="speakers">
   <div class="speaker"><img src="https://brandonrozek.com/img/avatar.jpg" height="250"><a href="https://brandonrozek.com">Brandon Rozek</a></div>  
-  <div class="speaker"><img src="https://media.licdn.com/dms/image/C4D03AQEEdZTpdWjdmg/profile-displayphoto-shrink_400_400/0/1649480269454?e=1722470400&v=beta&t=sC9HGIAyunijuWW0F0PccOuXPS-W295QywF6cdBl20A" height="250"><a href="https://jamesoswald.dev/">James Oswald</a></div>  
+  <div class="speaker"><img src="https://jamesoswald.dev/images/avatar.png" height="250"><a href="https://jamesoswald.dev/">James Oswald</a></div>  
   <div class="speaker"><img src="https://rair.cogsci.rpi.edu/files/2019/08/Giancola_Headshot-1-180x180.jpg" height="250"><a href="https://mjgiancola.github.io/">Mike Giancola</a></div>
   <div class="speaker"><img src="https://faculty.rpi.edu/sites/default/files/2021-12/Selmer-Bringsjord.jpg" height="250"><a href="https://homepages.rpi.edu/~brings/">Selmer Bringsjord</a></div>
   <div class="speaker"><img src="https://www.uno.edu/sites/default/files/inline-images/Shreya-Banerjee.jpg" height="250"><a href= "https://www.linkedin.com/in/shreyabbanerjee/">Shreya Banerjee</a></div>
