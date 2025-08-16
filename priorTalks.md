@@ -4,6 +4,16 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 04/23/2025 | James Oswald and Brandon Rozek |  Lean 4 as a Programming Language and Theorem Prover | |
+| 04/16/2025 | Bradley P. Allen | Chain-of-Verification-and-Refutation: bilateral factuality assessment using large language models | |
+| 04/09/2025 | Thomas Ferguson | A Family of Epistemic Logics of Zero Knowledge Proof | |
+| 04/02/2025 | Selmer Bringsjord | Gödel in 60 Seconds | | 
+| 03/26/2025 | Brandon Rozek | What can go into a classical planning model? | |
+| 03/19/2025 | Leonard Fowler | The V-generic filter is in Meinong's Jungle, and that's ok | |
+| 03/12/2025 | Jitka Kadlecikova | Asymmetric Consequence Relations and Many-Valued Semantics  | |
+| 02/19/2025 | Melvin Fitting | Simple Tableaus for Simple Logics | |
+| 02/05/2025 | Konstantine Arkoudas | Athena: Recent Advances in Higher-Order Logic Embeddings and LLMs for Proof Validation | |
+| 01/29/2025 | Timofey Tylik | Real Recursive Functions and Their Hierarchy | |
 | 12/04/2024 | Brandon Rozek & James Oswald | An Introduction to Situation Calculus | |
 | 11/20/2024 | Jitka Kadlecikova | A Unification of Asymmetric Consequences: Part II | |
 | 11/13/2024 | Marta Bilkova | Group Epistemics, (Co-)algebraically | |
