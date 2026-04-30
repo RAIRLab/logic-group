@@ -4,6 +4,12 @@
 
 | Date | Speaker | Title | Notes |
 | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------------------------ |
+| 04/08/2026 | Ana Milanova | EggSynt: Bottom-up Divide-and-Conquer Synthesis Using Equality Saturation | |
+| 02/25/2026 | Xiye Fan | Logic Universalism: a Review on Logic & Psychology of Reasoning | |
+| 01/28/2026 | Shay Logan | Variable Sharing for the Rest | |
+| 12/10/2025 | Selmer Bringsjord | Are All Rigorous Disciplines Reducible to Logic?  Yes — But | |
+| 11/12/2025 | Thomas Ferguson | Suszko-Style Reductions Through RNMatrices | |
+| 09/24/2025 | Brandon Rozek | Automatically Verifying Functional Equivalence of Programs | |
 | 04/23/2025 | James Oswald and Brandon Rozek |  Lean 4 as a Programming Language and Theorem Prover | |
 | 04/16/2025 | Bradley P. Allen | Chain-of-Verification-and-Refutation: bilateral factuality assessment using large language models | |
 | 04/09/2025 | Thomas Ferguson | A Family of Epistemic Logics of Zero Knowledge Proof | |
